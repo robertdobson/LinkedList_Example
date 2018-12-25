@@ -1,0 +1,50 @@
+North Dakota/Nov 02, 1889/1812
+California/Sep 09, 1850/1769
+Washington/Nov 11, 1889/1811
+Colorado/Aug 01, 1876/1858
+Nevada/Oct 31, 1864/1849
+New Hampshire/Jun 21, 1788/1623
+Arkansas/Jun 15, 1836/1686
+Mississippi/Dec 10, 1817/1699
+South Carolina/May 23, 1788/1670
+New Jersey/Dec 18, 1787/1660
+Georgia/Jan 02, 1788/1733
+Massachusetts/Feb 06, 1788/1620
+Kentucky/Jun 01, 1792/1774
+Pennsylvania/Dec 12, 1787/1682
+Virginia/Jun 25, 1788/1607
+West Virginia/Jun 20, 1863/1727
+New Mexico/Jan 06, 1912/1610
+Florida/Mar 03, 1845/1565
+Kansas/Jan 29, 1861/1727
+Minnesota/May 11, 1858/1805
+Alaska/Jan 03, 1959/1784
+Michigan/Jan 26, 1837/1668
+Ohio/Mar 01, 1803/1788
+Vermont/Mar 04, 1791/1724
+Oklahoma/Nov 16, 1907/1889
+Hawaii/Aug 21, 1959/1820
+Tennessee/Jun 01, 1796/1769
+Oregon/Feb 14, 1859/1811
+Arizona/Feb 14, 1912/1776
+Wisconsin/May 29, 1848/1766
+North Carolina/Nov 21, 1789/1660
+New York/Jul 26, 1788/1614
+Nebraska/Mar 01, 1867/1823
+Delaware/Dec 07, 1787/1638
+Louisiana/Apr 30, 1812/1699
+Iowa/Dec 28, 1846/1788
+Maine/Mar 15, 1820/1624
+Illinois/Dec 03, 1818/1720
+Utah/Jan 04, 1896/1847
+Texas/Dec 29, 1845/1682
+Indiana/Dec 11, 1816/1733
+Wyoming/Jul 10, 1890/1834
+South Dakota/Nov 02, 1889/1859
+Maryland/Apr 28, 1788/1634
+Alabama/Dec 14, 1819/1702
+Connecticut/Jan 09, 1788/1634
+Idaho/Jul 03, 1890/1842
+Montana/Nov 08, 1889/1809
+Rhode Island/May 29, 1790/1636
+Missouri/Aug 10, 1821/1735
